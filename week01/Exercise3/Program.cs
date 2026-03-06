@@ -6,7 +6,7 @@ class Program
     {
         Console.WriteLine("Hello World! This is the Exercise3 Project.");
 
-        // =============================================================
+        // ============================================================
         Random randomGenerator = new Random();
         int magicNumber = randomGenerator.Next(1,101);
 
