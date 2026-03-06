@@ -7,7 +7,7 @@ class Program
     {
         Console.WriteLine("Hello World! This is the Exercise4 Project.");
 
-        // ==========================================
+        // =============================================================
 
         // Criamos uma lista para guardar os números digitados
         List<int> numbers = new List<int>();
