@@ -7,7 +7,7 @@ class Program
 
         Console.WriteLine("Hello World! This is the Exercise5 Project.");
 
-        // =========================================
+        // =============================================================
 
         // 1. Mostrar mensagem de boas-vindas
         DisplayWelcome();
