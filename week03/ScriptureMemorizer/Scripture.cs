@@ -10,7 +10,7 @@ public class Scripture
     {
         _reference = reference;
 
-        // split the text into words
+        //  split the text into words
         string[] words = text.Split(' ');
         foreach (string word in words)
         {
