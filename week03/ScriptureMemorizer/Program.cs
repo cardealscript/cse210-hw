@@ -1,13 +1,13 @@
+// Exceeds requirements:
+// - Words are hidden with underscores matching the exact number of letters in each word.
+// - HideRandomWords only selects words that are not already hidden.
+
 using System;
 
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello World! This is the ScriptureMemorizer Project.");
-
-        // ==================================================
-
         Reference reference = new Reference("John", 3, 16);
         Scripture scripture = new Scripture(reference, "For God so loved the world that he gave his only begotten Son");
 
